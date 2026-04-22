@@ -2,7 +2,7 @@
 
 package:
   name: skala
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   url: https://github.com/microsoft/skala/archive/v{{ version }}.tar.gz
